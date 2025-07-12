@@ -47,15 +47,5 @@ streamlit run app.py
 
 4. Upload a CT scan image in the browser interface and get prediction instantly.
 
-🗂 Project Structure
-lung-cancer-detection/
-│
-├── app.py                 # Streamlit frontend
-├── model.h5               # Trained CNN model
-├── utils.py               # Helper functions (optional)
-├── data/                  # Sample CT scan images
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
-
-⭐ Link for download the Chest CT Scan Images dataset
+⭐ Link for download the Chest CT Scan Images dataset:
 https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
